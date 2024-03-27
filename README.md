@@ -8,4 +8,4 @@ Para ejecutar, se requiere:
 
 ```JavaScript``` ```HTML``` ```CSS```
 
-Alura #challengeonecodificador5
+Alura #challengeonecodificador6
